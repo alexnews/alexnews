@@ -6,7 +6,7 @@
 
   - **[kargin-utkin.com](https://www.kargin-utkin.com)** — hands-on writeups on data engineering, plus a 14-course Learn platform covering PostgreSQL, ClickHouse, Python, dbt, MySQL, Scala, Airflow, Kafka, PySpark, BigQuery, Spanner, SQL analytics,
   MongoDB, and Spark internals
-  - **[labs.kargin-utkin.com](https://labs.kargin-utkin.com)** — small, shipped experiments
+  - **[Portfolio]((https://alexnews.github.io/))** — Production data, analytics, business intelligence, and AI systems—from source ingestion and modeling through dashboards, APIs, applications, and deployment.
   - **[InnovaTek Solutions](https://www.innovateksolutionsinc.com)** — private AI installation consultancy: air-gapped LLMs and legacy modernization for regulated industries
 
   ### What I'm into right now
