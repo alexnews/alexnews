@@ -22,7 +22,7 @@
 
   ### Elsewhere
 
-  [Portfolio](https://alexnews.github.io) · [LinkedIn](https://linkedin.com/in/kargin) · [Medium](https://medium.com/@alexander-karginutkin) · [YouTube](https://youtube.com/@data-ml-engineer) · [X](https://x.com/alexnews_kargin)
+  [Portfolio](https://alexnews.github.io) · [LinkedIn](https://linkedin.com/in/kargin) · [Medium](https://medium.com/@alexander-karginutkin) · [YouTube]([https://youtube.com/@data-ml-engineer](https://www.youtube.com/@GroundTruthAINews)) · [X](https://x.com/GTruthAINews)
 
   ---
 
