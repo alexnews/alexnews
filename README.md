@@ -18,7 +18,7 @@
 
   ### Stack I keep coming back to
 
-  PostgreSQL · ClickHouse · Python · dbt · Airflow · Kafka · PySpark · BigQuery · Spanner · MongoDB · Delta Lake · Iceberg
+  PostgreSQL · ClickHouse · Python · dbt · Airflow · Kafka · Snowflake · BigQuery · MySQL · MongoDB · Delta Lake · Iceberg
 
   ### Elsewhere
 
